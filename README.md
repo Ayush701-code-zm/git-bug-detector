@@ -21,7 +21,6 @@ An AI-powered developer tool that helps identify which commit likely introduced 
 - MongoDB + Mongoose
 - Tailwind CSS
 - GitHub REST API
-- OpenAI API
 
 ## Setup
 
