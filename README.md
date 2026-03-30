@@ -20,7 +20,6 @@ An AI-powered developer tool that helps identify which commit likely introduced 
 - TypeScript
 - MongoDB + Mongoose
 - Tailwind CSS
-- GitHub REST API
 
 ## Setup
 
