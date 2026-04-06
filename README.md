@@ -41,7 +41,6 @@ An AI-powered developer tool that helps identify which commit likely introduced 
    # Auth (NextAuth)
    NEXTAUTH_SECRET=your-random-secret  # e.g. openssl rand -base64 32
    NEXTAUTH_URL=http://localhost:3000
-   GITHUB_ID=...      # from GitHub OAuth App
    ```
 
    **GitHub OAuth:** [Settings → Developer settings → OAuth Apps](https://github.com/settings/developers) → New OAuth App. Callback URL: `http://localhost:3000/api/auth/callback/github`
